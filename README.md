@@ -1,4 +1,4 @@
-# 🌤️ ATMOS — Interactive & Animated Weather App
+# 🌤️ ATMOS — Interactive Weather Website
 
 An interactive, responsive weather dashboard built with **React** and **Vite**. ATMOS provides live forecasts, detailed meteorological cards, dynamic animated scenes based on current weather conditions, air quality monitoring, and astronomical data.
 
@@ -40,3 +40,34 @@ ATMOS/
 ├── index.html            # HTML template
 ├── package.json          # Dependencies and scripts
 └── vite.config.js        # Vite configuration
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) (v16+ recommended)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Priyansh2811/ATMOS-Weather.git]
+   cd ATMOS-Weather
+   ```
+   
+ 2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+    
+ 3. **Start the local development server:**
+  
+    ```bash
+    npm run dev
+    ```
+    
+ 4. **Open in browser:**
+     
+    Navigate to ```http://localhost:5173```
