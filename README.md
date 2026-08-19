@@ -11,7 +11,6 @@ An interactive, responsive weather dashboard built with **React** and **Vite**. 
 * **Air Quality Index (AQI):** Comprehensive particulate and pollutant monitoring.
 * **Moon & Sun Tracking:** Accurate sunrise, sunset, and lunar phase calculations.
 * **Location Search & Geolocation:** Search for global cities or auto-detect current location.
-* **Mobile-Responsive:** Optimized UI for smartphones, tablets, and desktops.
 
 ---
 
@@ -19,7 +18,7 @@ An interactive, responsive weather dashboard built with **React** and **Vite**. 
 
 * **Framework:** [React](https://react.dev/)
 * **Build Tool:** [Vite](https://vitejs.dev/)
-* **Styling:** CSS3 (Custom responsive animations & layouts)
+* **Styling:** CSS3 
 * **Icons & Assets:** Custom SVG / Weather icons
 
 ---
